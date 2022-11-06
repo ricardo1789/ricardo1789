@@ -1,8 +1,8 @@
-👋 Hi, I’m Xin Lin
+👋 Hi, I’m Ricardo
 
 👨🏻‍💻 I’m interested in Rust, Python, bioinformatic...
 
-🧑🏻‍🎓 I’m currently a Ph.D. candidate in Computer Science, UNNC
+🧑🏻‍🎓 I’m currently a Ph.D. candidate in Computer Science
 
 
 <!---
