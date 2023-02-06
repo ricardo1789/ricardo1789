@@ -1,6 +1,6 @@
 👋 Hi, I’m Ricardo
 
-👨🏻‍💻 I’m interested in Rust, Python, bioinformatic...
+👨🏻‍💻 I’m interested in Rust, Python, bioinformatic, AIGC..
 
 🧑🏻‍🎓 I’m currently a Ph.D. candidate in Computer Science
 
