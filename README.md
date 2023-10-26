@@ -1,6 +1,6 @@
-👋 Hi, I’m Ricardo
+👋 Hi, I’m Ricardo(Xin) Lin
 
-👨🏻‍💻 I’m interested in Rust, Python, bioinformatic, AIGC..
+👨🏻‍💻 I’m interested in Machine Learning, Rust, Python, bioinformatic (NGS data analysis), AIGC...
 
 🧑🏻‍🎓 I’m currently a Ph.D. candidate in Computer Science
 
